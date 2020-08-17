@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Rich-Text-Editor/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Rich-Text-Editor/static/js/main.b97607c1.chunk.js",
+    "main.js.map": "/Rich-Text-Editor/static/js/main.b97607c1.chunk.js.map",
+    "runtime-main.js": "/Rich-Text-Editor/static/js/runtime-main.511ee409.js",
+    "runtime-main.js.map": "/Rich-Text-Editor/static/js/runtime-main.511ee409.js.map",
+    "static/css/2.5646f6cd.chunk.css": "/Rich-Text-Editor/static/css/2.5646f6cd.chunk.css",
+    "static/js/2.b53a0a04.chunk.js": "/Rich-Text-Editor/static/js/2.b53a0a04.chunk.js",
+    "static/js/2.b53a0a04.chunk.js.map": "/Rich-Text-Editor/static/js/2.b53a0a04.chunk.js.map",
+    "index.html": "/Rich-Text-Editor/index.html",
+    "precache-manifest.cda485999a2af6bed6c7878909228a8b.js": "/Rich-Text-Editor/precache-manifest.cda485999a2af6bed6c7878909228a8b.js",
+    "service-worker.js": "/Rich-Text-Editor/service-worker.js",
+    "static/css/2.5646f6cd.chunk.css.map": "/Rich-Text-Editor/static/css/2.5646f6cd.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Rich-Text-Editor/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b53a0a04.chunk.js.LICENSE.txt": "/Rich-Text-Editor/static/js/2.b53a0a04.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Rich-Text-Editor/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.511ee409.js",
+    "static/css/2.5646f6cd.chunk.css",
+    "static/js/2.b53a0a04.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b97607c1.chunk.js"
+  ]
+}
